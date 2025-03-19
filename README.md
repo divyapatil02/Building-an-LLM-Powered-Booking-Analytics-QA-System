@@ -1,7 +1,3 @@
-# Building-an-LLM-Powered-Booking-Analytics-QA-System
-Here’s a **README.md** draft based on the **Solvei8 AI/ML Internship Assignment PDF** 📄:
-
----
 
 # 🚀 **LLM-Powered Booking Analytics & QA System**
 
