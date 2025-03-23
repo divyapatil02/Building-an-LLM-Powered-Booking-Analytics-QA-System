@@ -1,0 +1,14 @@
+[
+  {
+    "query": "Show me total revenue for July 2017",
+    "expected_result": [{"hotel": "City Hotel", "arrival_date": "2017-07-05", "adr": 120}]
+  },
+  {
+    "query": "Which locations had the highest booking cancellations?",
+    "expected_result": [{"country": "PRT", "cancellation_count": 120}]
+  },
+  {
+    "query": "What is the average price of a hotel booking?",
+    "expected_result": {"average_price": 125.40}
+  }
+]
